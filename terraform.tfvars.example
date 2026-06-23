@@ -1,0 +1,6 @@
+# Copy this file to terraform.tfvars and fill in your values.
+# terraform.tfvars is gitignored so your subscription ID never lands on GitHub.
+
+subscription_id = "00000000-0000-0000-0000-000000000000"
+location        = "uksouth"
+prefix          = "seclz"
